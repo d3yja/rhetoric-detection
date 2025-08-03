@@ -38,5 +38,3 @@ Our goal: Build an AI-assisted pipeline that identifies rhetorical strategies in
 
 ---
 
-## 📂 Project Structure
-
